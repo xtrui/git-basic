@@ -2,3 +2,6 @@ hello world!
 update!
 
 some change！
+Your answer for What is the difference between add, commit, and push?
+
+answer: Git add 命令用于添加文件或目录到暂存区。 commit提交暂存区改变到本地仓库，push提交本地分支到远程仓库分支，可指定。
